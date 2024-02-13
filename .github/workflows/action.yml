@@ -1,7 +1,7 @@
 name: Update badges
 
 on:
-  commit:
+  push:
   # schedule:
     # Runs at 2am UTC
     # - cron: "40 8 * * *"

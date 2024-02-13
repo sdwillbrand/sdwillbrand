@@ -13,4 +13,4 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:       
-          CREDLY_USER: so.willbrand@gmail.com
+          CREDLY_USER: sono-willbrand

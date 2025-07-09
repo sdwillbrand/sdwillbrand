@@ -38,6 +38,6 @@ Currently collecting AWS certificates...
 
 Thinking of reaching out?
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("mailto:so.willbrand@gmail.com")
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:so.willbrand@gmail.com)
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=sdwillbrand)
